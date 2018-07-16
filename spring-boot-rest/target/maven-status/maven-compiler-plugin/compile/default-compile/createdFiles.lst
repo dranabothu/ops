@@ -1,0 +1,6 @@
+com\bhaiti\beans\StudentRegistrationReply.class
+com\bhaiti\rest\controller\WelcomeController.class
+com\bhaiti\server\main\SpringBootRestApplication.class
+com\bhaiti\beans\StudentRegistration.class
+com\bhaiti\beans\Welcome.class
+com\bhaiti\rest\controller\StudentRegisterController.class
