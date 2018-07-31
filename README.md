@@ -1,1 +1,1 @@
-# ops.git
+# ops
